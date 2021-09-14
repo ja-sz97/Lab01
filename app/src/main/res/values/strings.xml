@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ciclo</string>
+    <string name="tvHola">Hola a todos</string>
+    <string name="btnCambio">Siguiente</string>
+
+
+
+    <string name="tvDos">Texto de aca</string>
+    <string name="btnVuelta">Atras</string>
+
+
+    <string name="lab01">Laboratorio 01</string>
+
+</resources>
